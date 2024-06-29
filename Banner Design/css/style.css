@@ -1,0 +1,30 @@
+
+.banner img{
+    width:100%;
+}
+@media (max-width:150px){
+    .banner {
+        display:none;
+    }
+}
+
+    
+.middle img{
+    width:100%
+}
+
+@media (max-width:150px){
+    .middle{
+        display:none;
+    }
+}
+
+.name{
+    width:100%;
+}
+@media(max-width:150px){
+    .name{
+        display:none;
+    }
+}
+
